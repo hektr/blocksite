@@ -22,7 +22,7 @@ Features an **anti-impulse confirmation mechanism** to prevent accidental unbloc
 <div align="center">
   <img src="icons/icon128.png" alt="Blocksite Icon" width="64"/>
   <br><br>
-  <em>(Add your popup screenshot here, e.g., <img src="docs/popup-screenshot.png" alt="Blocksite Popup" width="320"/>)</em>
+  <em>(Screenshot <img src="icons/popup.png" alt="Blocksite Popup" width="320"/>)</em>
   <br>
   <em>Clean, modern interface with friction-based confirmation modals.</em>
 </div>
