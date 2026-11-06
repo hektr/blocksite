@@ -49,7 +49,7 @@ Blocksite is built with a "Privacy-First" philosophy. It requests only the absol
 - **`tabs`**: To instantly close already open tabs that match your blocklist when you add a site or resume blocking. **We do not read, track, or store your tab URLs or content.**
 - **`<all_urls>`**: Required by the blocking API to evaluate rules on any visited page. **We do not read, log, or transmit your browsing history or URLs.**
 
-Read the full, detailed policy here: [**docs/POLICY**](docs/POLICY)
+Read the full, detailed policy here: [**POLICY**](docs/POLICY)
 
 ---
 
