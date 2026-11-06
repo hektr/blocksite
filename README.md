@@ -20,11 +20,9 @@ Features an **anti-impulse confirmation mechanism** to prevent accidental unbloc
 ## Screenshots
 
 <div align="center">
-  <img src="icons/icon128.png" alt="Blocksite Icon" width="64"/>
-  <br><br>
-  <em>(Screenshot <img src="icons/popup.png" alt="Blocksite Popup" width="320"/>)</em>
   <br>
-  <em>Clean, modern interface with friction-based confirmation modals.</em>
+  <em><img src="icons/popup.png" alt="Blocksite Popup" width="320"/></em>
+  <br>
 </div>
 
 ---
@@ -33,7 +31,7 @@ Features an **anti-impulse confirmation mechanism** to prevent accidental unbloc
 
 - **Anti-Impulse Protection**: Removing a site or pausing the blocker requires a 5-second delay followed by typing a confirmation word. This prevents mindless, impulsive unblocking.
 - **Stealth Blocking**: Powered by the native `declarativeNetRequest` API. Blocks are handled directly by the browser engine, meaning zero performance impact and no background script overhead.
-- **Smart Pause**: Need a 15-minute break? Pause blocking with the same anti-impulse confirmation. The extension uses Chrome's Alarms API to reliably resume blocking even if the browser is closed and reopened.
+- **Smart Pause**: Pause blocking with the same anti-impulse confirmation. The extension uses Chrome's Alarms API to reliably resume blocking even if the browser is closed and reopened.
 - **Modern UI**: Clean, accessible interface with smooth animations, custom scrollbars, and a focus on usability.
 - **100% Local & Private**: Your blocklist and settings are saved exclusively in `chrome.storage.local`. No data is ever sent to external servers.
 
