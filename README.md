@@ -10,7 +10,7 @@ Features an **anti-impulse confirmation mechanism** to prevent accidental unbloc
 
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue?logo=googlechrome)](https://developer.chrome.com/docs/extensions/develop)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](docs/LICENSE)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome)](https://chromewebstore.google.com/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/blocksite/ajdknbjjnloedkadkbkajlglplbgmgem)
 [![Privacy](https://img.shields.io/badge/Privacy-First-brightgreen)](docs/POLICY)
 
 </div>
